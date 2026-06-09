@@ -186,9 +186,10 @@ Technologies and concepts practiced:
 
 Feel free to connect with me:
 
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/eric-mancebo-muminhodzic-a50361330/
 - Portfolio: [Add your portfolio URL here]
-- Email: [Add your professional email here]
+- Email: ericmancebo6950@gmail.com
+  
 
 ---
 
