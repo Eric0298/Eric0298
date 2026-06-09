@@ -11,6 +11,39 @@ I’m especially interested in building useful digital products, internal tools,
 
 ---
 
+## 📌 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Eric0298/eric-mancebo-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eric0298&repo=eric-mancebo-portfolio&theme=transparent&hide_border=true" alt="Eric Mancebo Portfolio repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Eric0298/KORUS_OS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eric0298&repo=KORUS_OS&theme=transparent&hide_border=true" alt="KORUS repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Eric0298/justwriteit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eric0298&repo=justwriteit&theme=transparent&hide_border=true" alt="JustWriteIt repository" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Eric0298/KORUS_OS/tree/main/src-frontend">
+        <strong>KORUS Web / Frontend Apps</strong><br />
+        React · TypeScript · Vite · Client Portal · Admin Panel · Trainer Panel<br />
+        Frontend applications inside the KORUS_OS monorepo.
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Recently graduated in **Web Application Development (DAW)**
@@ -20,21 +53,6 @@ I’m especially interested in building useful digital products, internal tools,
 - 🤖 Using AI tools such as **Claude and Codex** to support development, documentation, research and code review
 - 📚 Planning to continue growing technically and study **Computer Engineering** in the future
 - 🌍 Based in Valencia / Cullera, open to junior, trainee, remote or hybrid opportunities
-
----
-
-## 🧠 What I’m Focused On
-
-Right now, I’m focused on strengthening my profile as a **Junior Web / Full Stack Developer** with a strong base in:
-
-- Modern frontend development
-- Component-based architecture
-- Clean and responsive interfaces
-- Backend fundamentals with **.NET / C#**
-- SQL and relational databases
-- Git, GitHub and collaborative workflows
-- AI-assisted development with technical validation
-- Building projects that solve real business problems
 
 ---
 
@@ -55,15 +73,29 @@ Main contributions:
 - Worked with GitHub, team communication tools and agile workflows
 - Used AI tools such as Claude and Codex to accelerate development, research, documentation and technical review
 
-This experience helped me understand how development works inside a real product company, where technical decisions must be connected to business goals, usability and maintainability.
-
 ---
 
 ## 🧩 Featured Projects
 
-### KORUS
+### [Professional Portfolio](https://github.com/Eric0298/eric-mancebo-portfolio)
 
-**KORUS** is a personal SaaS project focused on the fitness ecosystem.  
+My personal portfolio project, built to present my technical profile, projects, CV, contact channels and professional positioning.
+
+Tech stack:
+
+- Astro
+- React
+- TypeScript
+- Tailwind CSS
+- SEO foundations
+- Accessibility and responsive design
+
+---
+
+### [KORUS](https://github.com/Eric0298/KORUS_OS)
+
+**KORUS** is a personal SaaS project focused on the fitness ecosystem.
+
 The idea is to connect gyms, trainers, clients, physiotherapists and nutrition professionals through a structured digital platform.
 
 Tech stack and concepts:
@@ -81,17 +113,13 @@ Tech stack and concepts:
 - GitHub Actions
 - Railway staging environment
 
-This project helps me practice backend architecture, authentication, database design, CI/CD workflows, deployment and product thinking.
-
 > Status: in active development.
 
 ---
 
-### JustWriteIt
+### [JustWriteIt](https://github.com/Eric0298/justwriteit)
 
 **JustWriteIt** is an application designed to transcribe audio into text and help users work with their transcriptions through a study-oriented mode.
-
-The goal of the project is to explore how technology can help people study, analyze and process audio content more efficiently.
 
 Main features:
 
@@ -100,15 +128,13 @@ Main features:
 - Clean and simple user interface
 - Productivity-oriented workflow
 
-Technologies and concepts practiced:
+Technologies:
 
 - Next.js
 - TypeScript
 - Tailwind CSS
 - Python
 - Whisper API
-- Full stack application structure
-- User-focused product design
 
 > Status: launched prototype / evolving project.
 
@@ -168,7 +194,7 @@ Technologies and concepts practiced:
 - PostgreSQL and relational database design
 - CI/CD workflows with GitHub Actions
 - Deployment and staging environments
-- AI-assisted development workflows with proper technical validation
+- AI-assisted development workflows with technical validation
 
 ---
 
@@ -177,19 +203,16 @@ Technologies and concepts practiced:
 - Work professionally as a **Junior Web / Full Stack Developer**
 - Join a team where I can grow with good practices, code review and real product development
 - Build useful SaaS, ERP/CRM, automation or internal business tools
-- Keep improving my backend, architecture, testing and deployment skills
-- Continue my education with a **Computer Engineering degree** in the future
+- Keep improving backend, architecture, testing and deployment skills
 
 ---
 
 ## 📫 Contact
 
-Feel free to connect with me:
-
 - LinkedIn: https://www.linkedin.com/in/eric-mancebo-muminhodzic-a50361330/
-- Portfolio: [Add your portfolio URL here]
+- GitHub: https://github.com/Eric0298
+- Portfolio repository: https://github.com/Eric0298/eric-mancebo-portfolio
 - Email: ericmancebo6950@gmail.com
-  
 
 ---
 
