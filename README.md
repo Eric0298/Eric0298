@@ -6,19 +6,21 @@
 
 # Hi, I'm Eric Mancebo
 
-**Full-Stack Developer · Artificial Intelligence Engineering Student**
+**Junior Software Developer · Full-Stack Profile**
 
-Product development · Business automation · Applied AI · SaaS
+Web development · Digital products · SaaS · Business automation · Applied AI
 
 ---
 
-I am a Full-Stack Developer and Artificial Intelligence Engineering student based in Valencia, Spain.
+I am a Junior Software Developer based in Valencia, Spain, with a Higher Vocational Degree in Web Application Development and practical experience working in a real SaaS/ERP environment.
 
-I hold a Higher Vocational Degree in Web Application Development and have practical experience working in a real SaaS/ERP environment. My previous professional background in ecommerce operations, logistics and digital processes gives me a business-oriented perspective when developing software.
+During my internship at Beply Technologies, I participated in the evolution of the company's corporate website through different technology stages, working with WordPress, Vue/Nuxt and Astro.
 
-I am especially interested in building useful digital products, automation systems, SaaS platforms, internal tools and maintainable applications, with a growing focus on applied artificial intelligence.
+I have also developed personal products and web solutions for real clients. My previous professional background in ecommerce operations, logistics, marketplaces and internal business processes gives me a practical and business-oriented perspective when developing software.
 
-Open to junior, trainee, remote and hybrid opportunities.
+I am currently studying Artificial Intelligence Engineering and continuing to improve my knowledge of software architecture, backend development, testing, CI/CD and applied artificial intelligence.
+
+Open to junior software development opportunities in Valencia, as well as remote and hybrid positions.
 
 ---
 
@@ -26,6 +28,7 @@ Open to junior, trainee, remote and hybrid opportunities.
 
 - Higher Vocational Degree in Web Application Development.
 - Currently studying Artificial Intelligence Engineering.
+- Cambridge English B2 certification.
 
 ---
 
@@ -35,16 +38,35 @@ Open to junior, trainee, remote and hybrid opportunities.
 
 Beply is a SaaS/ERP platform for companies, freelancers and consulting firms, with business management modules, ecommerce integrations, marketplace connectors and AI-assisted capabilities.
 
-During my internship at Beply Technologies, I contributed to the evolution of the corporate website through different technology stages: from WordPress to Vue/Nuxt and later to Astro.
+During my internship, I participated in the evolution of the corporate website through different technology stages: from WordPress to Vue/Nuxt and later to Astro.
 
 My work included:
 
 - Developing and adapting frontend components.
+- Migrating and adapting pages between WordPress, Vue/Nuxt and Astro.
 - Improving responsive layouts and visual structure.
 - Applying semantic HTML and accessibility principles.
-- Supporting performance and SEO improvements.
+- Supporting performance, SEO and content-structure improvements.
 - Working with GitHub and collaborative development workflows.
-- Using development tools to support research, documentation and technical review.
+- Using AI tools to support research, documentation and technical review.
+
+---
+
+### PG Peritaciones — Freelance Web Development
+
+Corporate website developed for a real client in the insurance claims and property assessment sector.
+
+The project included:
+
+- Gathering and organising requirements.
+- Defining the content architecture.
+- Developing a responsive user experience.
+- Applying accessibility principles.
+- Implementing local SEO foundations.
+- Organising services and contact channels.
+- Preparing and publishing the website in production.
+
+Live website: [pgperitaciones.com](https://www.pgperitaciones.com/)
 
 ---
 
@@ -52,87 +74,101 @@ My work included:
 
 ### MIGA
 
-MIGA is a mobile-first Progressive Web App designed to help users manage their time, goals, focus sessions and long-term progress through small, consistent actions.
+MIGA is a completed mobile-first Progressive Web App designed to help users manage goals, study sessions, materials, notes, mock exams and personal progress through small, consistent actions.
 
-The project combines product design, frontend development and backend architecture, following a guest-first approach with a local guest mode and no login required in the MVP.
+The product combines frontend development, backend architecture, product design and deployment workflows.
 
-Technologies currently used:
+Main technologies:
 
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Progressive Web App technologies
-- ASP.NET Core (.NET 10)
+- ASP.NET Core
 - PostgreSQL
 - Entity Framework Core
 - Docker
+- GitHub Actions
 - Vitest
 
-> Status: active development. Foundational phase complete, core features in progress.
+Status: released and publicly available.
 
-[Repository](https://github.com/Eric0298/MIGA)
+Live: [miga-indol.vercel.app](https://miga-indol.vercel.app/)
+
+Repository: [github.com/Eric0298/MIGA](https://github.com/Eric0298/MIGA)
 
 ---
 
 ### JustWriteIt
 
-JustWriteIt is an open-source audio-to-text transcription web application. Users can upload a file or record live audio, choose a language, and get a transcription with a private per-user history.
+JustWriteIt is an audio-to-text transcription web application that allows users to upload files or record live audio, obtain a transcription and access a private transcription history.
 
-Main areas:
+The application also includes a study mode designed to review transcribed content while listening to the original audio.
 
-- Audio transcription (file upload and live recording).
-- Private transcription history per user account.
-- Free portfolio project, with no paid plans.
-- Daily usage limits to keep the transcription backend stable.
+Main features:
 
-Technologies:
+- Audio file upload.
+- Live audio recording.
+- Audio-to-text transcription.
+- Private transcription history.
+- Study mode.
+- Daily usage limits.
 
-- Next.js (App Router) / React / TypeScript
-- NextAuth (authentication)
+Main technologies:
+
+- Next.js
+- React
+- TypeScript
 - PostgreSQL
 - Tailwind CSS
-- Vercel Blob (audio file storage)
-- Python (FastAPI) transcription service using Whisper
+- NextAuth
+- Vercel Blob
+- Python
+- FastAPI
+- Whisper
 
-Live: [justwriteit-j6j1.vercel.app](https://justwriteit-j6j1.vercel.app)
+Live: [justwriteit.app](https://www.justwriteit.app/)
 
-[Repository](https://github.com/Eric0298/justwriteit)
+Repository: [github.com/Eric0298/justwriteit](https://github.com/Eric0298/justwriteit)
 
 ---
 
 ### Professional Portfolio
 
-A bilingual (Spanish/English) professional portfolio built to present my experience, projects, technical profile and professional positioning.
+A bilingual professional portfolio developed to present my experience, projects, technical profile and professional positioning.
 
-Key areas:
+Main areas:
 
-- Spanish and English versions, with a language switcher.
+- Spanish and English versions.
 - Responsive design across desktop, tablet and mobile.
-- Accessibility foundations, including reduced-motion-aware behavior.
-- SEO metadata and structured data (JSON-LD).
-- Typed content architecture for sections, projects, skills and contact data.
+- Accessibility foundations.
+- Reduced-motion-aware behaviour.
+- SEO metadata.
+- Structured data with JSON-LD.
+- Typed content architecture.
+- Downloadable CV.
 
-Technologies:
+Main technologies:
 
 - Astro
 - React
 - TypeScript
 - Tailwind CSS
 
-Production: [ericmancebo.com](https://ericmancebo.com/)
+Live: [ericmancebo.com](https://ericmancebo.com/)
 
-[Repository](https://github.com/Eric0298/eric-mancebo-portfolio)
+Repository: [github.com/Eric0298/eric-mancebo-portfolio](https://github.com/Eric0298/eric-mancebo-portfolio)
 
 ---
 
 ### KORUS
 
-KORUS is a long-term SaaS project in active development, focused on creating a connected digital ecosystem for the fitness sector.
+KORUS is a private, long-term SaaS project in active development, focused on creating a connected digital ecosystem for the fitness sector.
 
-The project is designed to connect sports centres, trainers, athletes, physiotherapists and nutrition professionals through different applications and role-based experiences.
+The platform is designed to connect sports centres, trainers, athletes, physiotherapists and nutrition professionals through different applications and role-based experiences.
 
-Its technical foundation includes:
+Its current technical foundation includes:
 
 - ASP.NET Core
 - C#
@@ -148,76 +184,70 @@ Its technical foundation includes:
 - Automated testing
 - Staging infrastructure
 
-> Status: long-term project in active development. It is not yet a finished or publicly released product.
+Status: private long-term project in active development. It is not yet a publicly released product.
 
-This project is currently private, so no public repository link is available.
-
----
-
-## About Me
-
-- Full-Stack Developer.
-- Higher Vocational Degree in Web Application Development.
-- Currently studying Artificial Intelligence Engineering.
-- Professional experience in a SaaS/ERP environment.
-- Interested in product development, automation, SaaS and applied AI.
-- Based in Valencia, Spain.
-- Open to junior, trainee, remote and hybrid opportunities.
+No public repository is currently available.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Frontend
+### Core Frontend
 
-HTML · CSS · JavaScript · TypeScript · React · Astro · Vue · Nuxt · Tailwind CSS
+HTML · CSS · JavaScript · TypeScript · Bootstrap · Tailwind CSS
+
+### Practical Frontend Experience
+
+React · Next.js · Vue · Nuxt · Astro
 
 ### Backend
 
-C# · ASP.NET Core · .NET · Node.js · Python · PHP · Laravel
+Java · PHP · Laravel · Node.js
 
 ### Databases
 
-PostgreSQL · MySQL · MongoDB
-
-### Testing and Quality
-
-xUnit · Vitest · Testing Library · FluentAssertions · Moq · ESLint · TypeScript
+MySQL · PostgreSQL · MongoDB · SQL
 
 ### DevOps and Deployment
 
-Git · GitHub · Docker · GitHub Actions · Railway · Vercel
+Git · GitHub · Docker · Jenkins · GitHub Actions · CI/CD · Vercel · Railway · Cloudflare
 
-I use generative AI tools responsibly to support documentation, research and code review during development.
+### Technologies Used in AI-Assisted Projects
+
+C# · ASP.NET Core · .NET · Python · xUnit · Vitest · Testing Library · FluentAssertions · Moq
+
+I have used these technologies in AI-assisted projects, reviewing, integrating and validating the generated solutions.
+
+I use generative AI tools responsibly to support research, documentation, implementation, debugging and code review while maintaining responsibility for the final result.
 
 ---
 
 ## Currently Learning
 
-- Artificial Intelligence Engineering.
 - Software architecture.
-- Backend development with C# and ASP.NET Core.
-- Testing and maintainable code.
-- PostgreSQL and relational database design.
+- Backend development.
+- Maintainable code.
+- Automated testing.
 - CI/CD and deployment workflows.
 - Applied artificial intelligence.
-- Web scraping and data automation.
+- Artificial Intelligence Engineering.
 
 ---
 
 ## Professional Goals
 
-- Work professionally as a Full-Stack Developer.
-- Be part of a team with good practices, code review and real product development.
-- Build digital products, SaaS platforms, business tools and automation.
-- Keep improving in backend, architecture, testing, deployment and applied AI.
+- Start my professional career as a Software Developer.
+- Join a team with good practices, code review and real product development.
+- Continue improving my frontend and backend foundations.
+- Build useful digital products, SaaS platforms and business tools.
+- Gain professional experience in testing, deployment and software architecture.
 
 ---
 
 ## Contact
 
 - Portfolio: [ericmancebo.com](https://ericmancebo.com/)
-- LinkedIn: [eric-mancebo-muminhodzic](https://www.linkedin.com/in/eric-mancebo-muminhodzic-a50361330/)
+- LinkedIn: [eric-mancebo-muminhodzic](https://www.linkedin.com/in/eric-mancebo-muminhodzic)
 - GitHub: [Eric0298](https://github.com/Eric0298)
 - Email: [ericmancebo6950@gmail.com](mailto:ericmancebo6950@gmail.com)
 - Location: Valencia, Spain
@@ -234,19 +264,21 @@ I use generative AI tools responsibly to support documentation, research and cod
 
 # Hola, soy Eric Mancebo
 
-**Full-Stack Developer · Estudiante de Ingeniería de Inteligencia Artificial**
+**Desarrollador de Software Junior · Perfil Full Stack**
 
-Desarrollo de producto · Automatización empresarial · IA aplicada · SaaS
+Desarrollo web · Productos digitales · SaaS · Automatización empresarial · IA aplicada
 
 ---
 
-Soy Full-Stack Developer y estudiante de Ingeniería de Inteligencia Artificial, ubicado en Valencia, España.
+Soy desarrollador de software junior, ubicado en Valencia, con el título de Técnico Superior en Desarrollo de Aplicaciones Web y experiencia práctica trabajando dentro de un entorno real SaaS/ERP.
 
-Tengo el título de Técnico Superior en Desarrollo de Aplicaciones Web y experiencia práctica trabajando en un entorno real SaaS/ERP. Mi experiencia previa en operaciones de ecommerce, logística y procesos digitales me aporta una perspectiva orientada a negocio a la hora de desarrollar software.
+Durante mis prácticas en Beply Technologies participé en la evolución de su web corporativa a través de distintas etapas tecnológicas, trabajando con WordPress, Vue/Nuxt y Astro.
 
-Me interesa especialmente construir productos digitales útiles, sistemas de automatización, plataformas SaaS, herramientas internas y aplicaciones mantenibles, con un enfoque creciente en inteligencia artificial aplicada.
+También he desarrollado productos propios y soluciones web para clientes reales. Mi experiencia profesional anterior en operaciones de ecommerce, logística, marketplaces y procesos internos de empresa me aporta una perspectiva práctica y orientada a negocio a la hora de desarrollar software.
 
-Abierto a oportunidades junior, trainee, remotas o híbridas.
+Actualmente estudio Ingeniería de Inteligencia Artificial y continúo mejorando mis conocimientos en arquitectura de software, desarrollo backend, testing, CI/CD e inteligencia artificial aplicada.
+
+Busco oportunidades como desarrollador de software junior en Valencia, además de posiciones híbridas o remotas.
 
 ---
 
@@ -254,6 +286,7 @@ Abierto a oportunidades junior, trainee, remotas o híbridas.
 
 - Técnico Superior en Desarrollo de Aplicaciones Web.
 - Actualmente cursando Ingeniería de Inteligencia Artificial.
+- Certificación Cambridge English B2.
 
 ---
 
@@ -261,18 +294,37 @@ Abierto a oportunidades junior, trainee, remotas o híbridas.
 
 ### Beply Technologies — Prácticas en Desarrollo Web
 
-Beply es una plataforma SaaS/ERP para empresas, autónomos y consultoras, con módulos de gestión empresarial, integraciones de ecommerce, conectores de marketplace y funcionalidades asistidas por IA.
+Beply es una plataforma SaaS/ERP para empresas, autónomos y asesorías, con módulos de gestión empresarial, integraciones de ecommerce, conectores de marketplaces y funcionalidades asistidas por IA.
 
-Durante mis prácticas en Beply Technologies, participé en la evolución de la web corporativa a través de distintas etapas tecnológicas: de WordPress a Vue/Nuxt y posteriormente a Astro.
+Durante mis prácticas participé en la evolución de la web corporativa a través de distintas etapas tecnológicas: de WordPress a Vue/Nuxt y posteriormente a Astro.
 
 Mi trabajo incluyó:
 
 - Desarrollo y adaptación de componentes frontend.
+- Traslado y adaptación de páginas entre WordPress, Vue/Nuxt y Astro.
 - Mejora de layouts responsive y estructura visual.
 - Aplicación de HTML semántico y principios de accesibilidad.
-- Apoyo en mejoras de rendimiento y SEO.
+- Apoyo en mejoras de rendimiento, SEO y organización de contenidos.
 - Trabajo con GitHub y flujos de desarrollo colaborativo.
-- Uso de herramientas de desarrollo para apoyar investigación, documentación y revisión técnica.
+- Uso de herramientas de IA como apoyo para investigación, documentación y revisión técnica.
+
+---
+
+### PG Peritaciones — Desarrollo Web Freelance
+
+Web corporativa desarrollada para un cliente real del sector pericial.
+
+El proyecto incluyó:
+
+- Recogida y organización de requisitos.
+- Definición de la arquitectura de contenidos.
+- Desarrollo de una experiencia responsive.
+- Aplicación de principios de accesibilidad.
+- Implementación de fundamentos de SEO local.
+- Organización de servicios y vías de contacto.
+- Preparación y publicación de la web en producción.
+
+Web: [pgperitaciones.com](https://www.pgperitaciones.com/)
 
 ---
 
@@ -280,87 +332,101 @@ Mi trabajo incluyó:
 
 ### MIGA
 
-MIGA es una Progressive Web App mobile-first diseñada para ayudar a los usuarios a gestionar su tiempo, objetivos, sesiones de enfoque y progreso a largo plazo mediante pequeñas acciones consistentes.
+MIGA es una Progressive Web App mobile-first finalizada, diseñada para ayudar a gestionar objetivos, sesiones de estudio, materiales, notas, simulacros y progreso personal mediante pequeñas acciones constantes.
 
-El proyecto combina diseño de producto, desarrollo frontend y arquitectura backend, siguiendo un enfoque guest-first con modo invitado local y sin necesidad de login en el MVP.
+El producto combina desarrollo frontend, arquitectura backend, diseño de producto y flujos de despliegue.
 
-Tecnologías utilizadas actualmente:
+Tecnologías principales:
 
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Tecnologías Progressive Web App
-- ASP.NET Core (.NET 10)
+- ASP.NET Core
 - PostgreSQL
 - Entity Framework Core
 - Docker
+- GitHub Actions
 - Vitest
 
-> Estado: en desarrollo activo. Fase de base completada, funcionalidades principales en progreso.
+Estado: producto lanzado y disponible públicamente.
 
-[Repositorio](https://github.com/Eric0298/MIGA)
+Web: [miga-indol.vercel.app](https://miga-indol.vercel.app/)
+
+Repositorio: [github.com/Eric0298/MIGA](https://github.com/Eric0298/MIGA)
 
 ---
 
 ### JustWriteIt
 
-JustWriteIt es una aplicación web open source de transcripción de audio a texto. Los usuarios pueden subir un archivo o grabar audio en directo, elegir idioma, y obtener una transcripción con historial privado por usuario.
+JustWriteIt es una aplicación web de transcripción de audio a texto que permite subir archivos o grabar audio en directo, obtener una transcripción y consultar un historial privado.
 
-Áreas principales:
+La aplicación también incluye un modo estudio diseñado para revisar el contenido transcrito mientras se escucha el audio original.
 
-- Transcripción de audio (subida de archivo y grabación en vivo).
-- Historial de transcripciones privado por cuenta de usuario.
-- Proyecto de portfolio gratuito, sin planes de pago.
-- Límites de uso diarios para mantener estable el backend de transcripción.
+Funcionalidades principales:
 
-Tecnologías:
+- Subida de archivos de audio.
+- Grabación de audio en directo.
+- Transcripción de audio a texto.
+- Historial privado de transcripciones.
+- Modo estudio.
+- Límites diarios de uso.
 
-- Next.js (App Router) / React / TypeScript
-- NextAuth (autenticación)
+Tecnologías principales:
+
+- Next.js
+- React
+- TypeScript
 - PostgreSQL
 - Tailwind CSS
-- Vercel Blob (almacenamiento de audio)
-- Servicio de transcripción en Python (FastAPI) usando Whisper
+- NextAuth
+- Vercel Blob
+- Python
+- FastAPI
+- Whisper
 
-En producción: [justwriteit-j6j1.vercel.app](https://justwriteit-j6j1.vercel.app)
+Web: [justwriteit.app](https://www.justwriteit.app/)
 
-[Repositorio](https://github.com/Eric0298/justwriteit)
+Repositorio: [github.com/Eric0298/justwriteit](https://github.com/Eric0298/justwriteit)
 
 ---
 
-### Professional Portfolio
+### Portfolio Profesional
 
-Portfolio profesional bilingüe (Español/Inglés) construido para presentar mi experiencia, proyectos, perfil técnico y posicionamiento profesional.
+Portfolio profesional bilingüe desarrollado para presentar mi experiencia, proyectos, perfil técnico y posicionamiento profesional.
 
-Áreas clave:
+Áreas principales:
 
-- Versiones en Español e Inglés, con selector de idioma.
+- Versiones en español e inglés.
 - Diseño responsive en escritorio, tablet y móvil.
-- Fundamentos de accesibilidad, incluyendo comportamiento consciente de "reduced motion".
-- Metadatos SEO y datos estructurados (JSON-LD).
-- Arquitectura de contenido tipada para secciones, proyectos, habilidades y datos de contacto.
+- Fundamentos de accesibilidad.
+- Comportamiento adaptado a reduced motion.
+- Metadatos SEO.
+- Datos estructurados mediante JSON-LD.
+- Arquitectura de contenidos tipada.
+- Descarga directa del CV.
 
-Tecnologías:
+Tecnologías principales:
 
 - Astro
 - React
 - TypeScript
 - Tailwind CSS
 
-En producción: [ericmancebo.com](https://ericmancebo.com/)
+Web: [ericmancebo.com](https://ericmancebo.com/)
 
-[Repositorio](https://github.com/Eric0298/eric-mancebo-portfolio)
+Repositorio: [github.com/Eric0298/eric-mancebo-portfolio](https://github.com/Eric0298/eric-mancebo-portfolio)
 
 ---
 
 ### KORUS
 
-KORUS es un proyecto SaaS de largo plazo en desarrollo activo, centrado en crear un ecosistema digital conectado para el sector fitness.
+KORUS es un proyecto SaaS privado y de largo plazo en desarrollo activo, centrado en crear un ecosistema digital conectado para el sector fitness.
 
-El proyecto está diseñado para conectar centros deportivos, entrenadores, atletas, fisioterapeutas y profesionales de la nutrición a través de distintas aplicaciones y experiencias según el rol.
+La plataforma está diseñada para conectar centros deportivos, entrenadores, atletas, fisioterapeutas y profesionales de la nutrición mediante distintas aplicaciones y experiencias adaptadas a cada rol.
 
-Su base técnica incluye:
+Su base técnica actual incluye:
 
 - ASP.NET Core
 - C#
@@ -376,76 +442,70 @@ Su base técnica incluye:
 - Testing automatizado
 - Infraestructura de staging
 
-> Estado: proyecto de largo plazo en desarrollo activo. Todavía no es un producto terminado ni lanzado públicamente.
+Estado: proyecto privado de largo plazo en desarrollo activo. Todavía no es un producto publicado.
 
-Este proyecto es actualmente privado, por lo que no hay enlace público al repositorio.
-
----
-
-## Sobre Mí
-
-- Full-Stack Developer.
-- Técnico Superior en Desarrollo de Aplicaciones Web.
-- Actualmente cursando Ingeniería de Inteligencia Artificial.
-- Experiencia profesional en un entorno SaaS/ERP.
-- Interesado en desarrollo de producto, automatización, SaaS e IA aplicada.
-- Ubicado en Valencia, España.
-- Abierto a oportunidades junior, trainee, remotas o híbridas.
+Actualmente no existe un repositorio público disponible.
 
 ---
 
-## Stack Tecnológico
+## Competencias Técnicas
 
-### Frontend
+### Frontend Principal
 
-HTML · CSS · JavaScript · TypeScript · React · Astro · Vue · Nuxt · Tailwind CSS
+HTML · CSS · JavaScript · TypeScript · Bootstrap · Tailwind CSS
+
+### Experiencia Práctica en Frontend
+
+React · Next.js · Vue · Nuxt · Astro
 
 ### Backend
 
-C# · ASP.NET Core · .NET · Node.js · Python · PHP · Laravel
+Java · PHP · Laravel · Node.js
 
 ### Bases de Datos
 
-PostgreSQL · MySQL · MongoDB
-
-### Testing y Calidad
-
-xUnit · Vitest · Testing Library · FluentAssertions · Moq · ESLint · TypeScript
+MySQL · PostgreSQL · MongoDB · SQL
 
 ### DevOps y Despliegue
 
-Git · GitHub · Docker · GitHub Actions · Railway · Vercel
+Git · GitHub · Docker · Jenkins · GitHub Actions · CI/CD · Vercel · Railway · Cloudflare
 
-Utilizo herramientas de IA generativa de forma responsable como apoyo en documentación, investigación y revisión de código durante el desarrollo.
+### Tecnologías Utilizadas en Proyectos Asistidos por IA
+
+C# · ASP.NET Core · .NET · Python · xUnit · Vitest · Testing Library · FluentAssertions · Moq
+
+He utilizado estas tecnologías en proyectos asistidos por IA, revisando, integrando y validando las soluciones generadas.
+
+Utilizo herramientas de IA generativa de forma responsable como apoyo en investigación, documentación, implementación, depuración y revisión de código, manteniendo la responsabilidad sobre el resultado final.
 
 ---
 
 ## Actualmente Aprendiendo
 
-- Ingeniería de Inteligencia Artificial.
 - Arquitectura de software.
-- Desarrollo backend con C# y ASP.NET Core.
-- Testing y código mantenible.
-- PostgreSQL y diseño de bases de datos relacionales.
+- Desarrollo backend.
+- Código mantenible.
+- Testing automatizado.
 - Flujos de CI/CD y despliegue.
 - Inteligencia artificial aplicada.
-- Web scraping y automatización de datos.
+- Ingeniería de Inteligencia Artificial.
 
 ---
 
 ## Objetivos Profesionales
 
-- Trabajar profesionalmente como Full-Stack Developer.
+- Iniciar mi carrera profesional como desarrollador de software.
 - Formar parte de un equipo con buenas prácticas, revisión de código y desarrollo de producto real.
-- Construir productos digitales, plataformas SaaS, herramientas empresariales y automatización.
-- Seguir mejorando en backend, arquitectura, testing, despliegue e IA aplicada.
+- Continuar mejorando mis fundamentos frontend y backend.
+- Construir productos digitales útiles, plataformas SaaS y herramientas empresariales.
+- Adquirir experiencia profesional en testing, despliegue y arquitectura de software.
 
 ---
 
 ## Contacto
 
 - Portfolio: [ericmancebo.com](https://ericmancebo.com/)
-- LinkedIn: [eric-mancebo-muminhodzic](https://www.linkedin.com/in/eric-mancebo-muminhodzic-a50361330/)
+- LinkedIn: [eric-mancebo-muminhodzic](https://www.linkedin.com/in/eric-mancebo-muminhodzic)
 - GitHub: [Eric0298](https://github.com/Eric0298)
 - Email: [ericmancebo6950@gmail.com](mailto:ericmancebo6950@gmail.com)
 - Ubicación: Valencia, España
